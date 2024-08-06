@@ -2,7 +2,7 @@
 
 ## 📝 Descrizione
 Questo progetto rappresenta un sito portfolio dell utente, con la sua informazione, contatti, capacità e tecnologie conosciute, i progetti svolti e i hobby.
-<br>Il progetto mostra un sito landing page con una struttura semantica, possibilità di cambiare la lingua del sito, attivare dark mode e scaricare il Cv dell utente</br>
+<br>Progetto mostra un sito landing page con una struttura semantica, possibilità di cambiare la lingua del sito, attivare dark mode e scaricare il Cv dell utente</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
